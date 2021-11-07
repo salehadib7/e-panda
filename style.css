@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    margin-bottom: 75px;
+}
+
+.slideDiv{
+    margin-top: 45px;
+}
+
+.allSlide{
+    background-color: #FEEAE9;
+    padding: 20px 35px;
+}
+
+.radius{
+    border-radius: 10px;
+}
+
+h2{
+    color: #e2299b;
+    font-weight: 900;
+}
+
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.allCat{
+    padding: 10px 15px;
+}
+.catagories{
+    border-radius: 10px;
+    padding: 7px 15px;
+    max-width: 350px;
+    margin: auto;
+}
+#bag{
+    background-image: linear-gradient(45deg, rgb(122, 255, 255), rgb(209, 118, 153));
+    
+}
+#watch{
+    background-image: linear-gradient(45deg, rgb(255, 122, 162), rgb(241, 190, 190));
+
+}
+#shoe{
+    background-image: linear-gradient(45deg, rgb(164, 205, 218), rgb(118, 127, 209));
+}
+.shoes{
+    -webkit-box-shadow: 9px 5px 28px 4px rgba(97,97,97,0.75); 
+    box-shadow: 9px 5px 28px 4px rgba(97,97,97,0.75);
+    padding: 10px 15px;
+    border-radius: 17px;
+    border: none;
+}
+.contact{
+    background-color: #FEEAE9;
+    height: 300px;
+    border-radius: 10px;
+}
+p{
+    color: dimgray;
+}
+.send{
+    padding: 5px 12px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+input{
+    border-radius: 5px;
+    padding: 3px 7px;
+    border: 0.1px solid dimgray;
+}
